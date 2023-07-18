@@ -33,11 +33,14 @@ Objetivos Futuros
 Estou constantemente expandindo meu conhecimento em programação :computer: e buscando novos desafios. Além de me aprofundar em Node.js, planejo explorar outras tecnologias e frameworks populares, como React e Python, para ampliar ainda mais meu conjunto de habilidades :books:.
 
 contato
-Você pode entrar em contato comigo por meio do meu e-mail, facebook, instagram ou através do LinkedIn , onde estou sempre aberto a oportunidades e colaborações interessantes.
-- <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>         https://outlook.live.com/mail/0/
-- <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>    https://www.facebook.com/profile.php?id=100087345402242
-- <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>  https://www.instagram.com/maikon0509/
-- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+Você pode entrar em contato comigo por meio do meu e-mail, facebook, instagram ou através do LinkedIn , onde estou sempre aberto a oportunidades e colaborações interessantes. 
+<br>
+
+<a href="https://outlook.live.com/mail/0/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+<img  src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>    https://www.facebook.com/profile.php?id=100087345402242 
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>  https://www.instagram.com/maikon0509/ 
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 Fique à vontade para explorar meus projetos e acompanhar minha jornada como desenvolvedor!
 <br>
