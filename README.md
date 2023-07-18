@@ -3,11 +3,18 @@
 - 🔭 Desenvolvedor Front-End
 - 🌱 Estudando javascript  
 - 📫 Email: maikon_zitos@hotmail.com: ...
+<br>
 <p> 
  Atualmente, sou um desenvolvedor Front-End e estudando de outras tecnologias de programação com a empresa Dev Club :bulb:, onde tenho a oportunidade de aprimorar minhas habilidades e adquirir novos conhecimentos:book: no campo da tecnologia.
 Durante minha jornada de aprendizado, trabalhei em vários projetos interessantes, explorando as linguagens com as quais estou conhecendo. Alguns dos meus projetos em destaque incluem: 
-<br>
 </p>
+<br>
+<br>
+<div>
+<a href="https://github.com/maikonwogl">
+<img height="180em" src=http://github-readme-stats.vercel.app/api?username=maikonwogl&show_icon=true-theme-dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src=http://github-readme-stats.vercel.app/api/top-langs/?username=maikonwogl&layout=compact&langs_count-16&theme=dracula"/>
+ </div>
 
  <div> 
  <img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -38,11 +45,7 @@ Fique à vontade para explorar meus projetos e acompanhar minha jornada como des
 
 
 
-<div>
-<a href="https://github.com/maikonwogl">
-<img height="180em" src=http://github-readme-stats.vercel.app/api?username=maikonwogl&show_icon=true-theme-dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src=http://github-readme-stats.vercel.app/api/top-langs/?username=maikonwogl&layout=compact&langs_count-16&theme=dracula"/>
- </div>
+
 
     
          
