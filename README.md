@@ -44,7 +44,7 @@ Você pode entrar em contato comigo por meio do meu e-mail, facebook, instagram 
 Fique à vontade para explorar meus projetos e acompanhar minha jornada como desenvolvedor!
 <br>
 
-<a href=" https://github.com/maikonwogl/CSS-PROGRAM"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> 
+<a href="https://github.com/maikonwogl/CSS-PROGRAM--O/tree/main"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> <a/>
 
 
 
