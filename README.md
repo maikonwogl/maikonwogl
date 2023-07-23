@@ -1,9 +1,11 @@
 
-## Olá! :v: Meu nome é Maikon Andrade  .:computer: :notebook: ✔
+## Olá! 👋: Meu nome é Maikon Andrade  .:computer: :notebook: ✔
 - 🔭 Desenvolvedor Front-End
 - 🌱 Estudando javascript  
 - 📫 Email: maikon_zitos@hotmail.com: ...
 <br>
+
+<img src= "https://camo.githubusercontent.com/505c2c03a5b20dcc664ce9a0dbdce638ea0a8a85fc39e613c0f4a2f545dd67b1/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966"/>
 <p> 
  Atualmente, sou um desenvolvedor Front-End e estudando de outras tecnologias de programação com a empresa Dev Club :bulb:, onde tenho a oportunidade de aprimorar minhas habilidades e adquirir novos conhecimentos:book: no campo da tecnologia.
 Durante minha jornada de aprendizado, trabalhei em vários projetos interessantes, explorando as linguagens com as quais estou conhecendo. Alguns dos meus projetos em destaque incluem: 
